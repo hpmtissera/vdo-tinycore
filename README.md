@@ -1,3 +1,3 @@
 # vdo-tinycore
 
-Build ZFS for Tiny Core Linux
+Build Redhat VDO for Tiny Core Linux
